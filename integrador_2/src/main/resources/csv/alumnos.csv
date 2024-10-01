@@ -1,0 +1,6 @@
+idAlumno,nombre,apellido,edad,genero,dni,ciudad,nroLibreta
+1,"Juan","Gonzalez",20,"masculino",12345678,"Buenos Aires",223344
+2,"Maria","Gonzalez",22,"femenino",87654321,"Cordoba",204050
+3,"Pedro","Lopez",25,"masculino",98765432,"Mendoza",112233
+4,"Sofia","Sanchez",18,"femenino",01234567,"Santa Fe",224466
+5,"Miguel","Diaz",21,"masculino",54321078,"Salta",556677

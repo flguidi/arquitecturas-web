@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:latest
+    restart: always
+    container_name: integrador_2
+    environment:
+      - MYSQL_DATABASE=integrador_2
+      - MYSQL_ROOT_PASSWORD=
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+    ports:
+      - '3306:3306'
